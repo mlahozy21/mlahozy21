@@ -16,4 +16,11 @@ principled and reproducible.
 - **[LLM Agent Toolbox](https://github.com/mlahozy21/LLM-Agent-Toolbox)** — building blocks for LLM multi-agent systems: semantic top-k tool selection (embeddings + recall@k evaluation) and a blackboard coordination primitive with a controller that runs agents to quiescence.
 - **[Medical RAG with Knowledge Graphs](https://github.com/mlahozy21/Medical-RAG-Knowledge-Graphs)** — multimodal medical Retrieval-Augmented Generation (ColPali + Gemini + a Mondo Knowledge Graph), evaluated on the MIRAGE benchmark.
 - **[Fine-Tuning Self-Supervised Speech Models for ASR](https://github.com/mlahozy21/Fine-Tuning-Self-Supervised-Speech-Models-for-ASR)** — fine-tuning Wav2Vec2/MMS with a CTC head on FLEURS, plus a linear-probe study of phonetic content.
-- **[Neural Language Modeling: N-Gram vs LSTM](https://github.com/mlahozy21/Neural-Language-Mode
+- **[Neural Language Modeling: N-Gram vs LSTM](https://github.com/mlahozy21/Neural-Language-Modeling-Ngram-vs-LSTM)** — from-scratch word-level LMs in PyTorch compared by perplexity.
+- **[Graph Convolutional Networks (from scratch)](https://github.com/mlahozy21/Graph-Convolutional-Networks-GCN)** — reproduction of Kipf & Welling (2017) with an over-smoothing study.
+- **Electricity demand forecasting** — the same problem with two methodologies: [deep learning](https://github.com/mlahozy21/Deep-Learning-Electricity-Demand-Forecasting) (multi-output neural nets) and [statistical models](https://github.com/mlahozy21/Electricity-Demand-Forecasting-Statistical-Models) (GAM/Kalman, quantile GAMs, expert aggregation in R).
+
+## Contact
+
+- Email: marcoslahozy14@gmail.com
+- LinkedIn: [marcos-lahoz](https://www.linkedin.com/in/marcos-lahoz-859a98248)
