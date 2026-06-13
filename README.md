@@ -17,4 +17,9 @@ that is both principled and reproducible.
 - **[Structural Probes for Spanish Syntax](https://github.com/mlahozy21/Structural-Probes-for-Spanish-Syntax)** — probing multilingual BERT for Spanish dependency syntax (UD AnCora), with an orthogonal/isometric-probe extension and a layer-wise analysis.
 - **[Graph Convolutional Networks (from scratch)](https://github.com/mlahozy21/Graph-Convolutional-Networks-GCN)** — reproduction of Kipf & Welling (2017) with an over-smoothing study (standard vs residual, 2→16 layers).
 - **[Churn Prediction (MLOps)](https://github.com/mlahozy21/Churn-Prediction-MLOps)** — an end-to-end production-style ML project: scikit-learn pipeline + gradient boosting (test AUC ≈ 0.82 on real IBM Telco), FastAPI serving, Docker, MLflow tracking, pytest and GitHub Actions CI, with permutation-based explainability.
-- **Electricity demand forecasting** — the same problem with two methodologies: [deep learning](https://github.com/mlahozy21/Deep-Learning-Electricity-Demand-Forecas
+- **Electricity demand forecasting** — the same problem with two methodologies: [deep learning](https://github.com/mlahozy21/Deep-Learning-Electricity-Demand-Forecasting) (multi-output neural nets) and [statistical models](https://github.com/mlahozy21/Electricity-Demand-Forecasting-Statistical-Models) (GAM/Kalman, quantile GAMs, online expert aggregation in R).
+
+## Contact
+
+- Email: marcoslahozy14@gmail.com
+- LinkedIn: [marcos-lahoz](https://www.linkedin.com/in/marcos-lahoz-859a98248)
